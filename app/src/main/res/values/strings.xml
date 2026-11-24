@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reno10 Capture</string>
+    <string name="module_description">Experimental application-scoped window compatibility module for Android 15. Select only apps you are authorized to capture.</string>
+</resources>
